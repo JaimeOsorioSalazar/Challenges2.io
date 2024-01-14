@@ -1,0 +1,17 @@
+@media (max-width:370px) {
+    div.Card{
+        width: 300px;
+    }
+    div>img{
+        width: 260px;
+    }
+    h2{
+        margin: 10px;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    div>p{
+        margin: 5px 10px 30px 5px;
+        font-size: 14px;
+    }
+}
